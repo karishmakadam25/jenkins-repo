@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body bgcolor="blue">
+<body bgcolor="white">
 <%
     Users a1 = (Users)session.getAttribute("user_attr");
     out.println(a1);
